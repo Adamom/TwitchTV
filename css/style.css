@@ -1,0 +1,61 @@
+h1 {
+  text-align: center;
+  color: pink;
+  margin: 50px 50px 50px 10px;
+  font-family: san-serif;
+  font-weight: bold;
+  font-size: 3.5em;
+}
+.buttons {
+  margin: 50px 50px 50px 400px;
+}
+.container {
+  margin: auto;
+}
+.image {
+  max-width: 50px;
+  max-height: 50px;
+  border-radius: 50%;
+  margin: 5px 5px;
+}
+.nom {
+  margin: 10px 15px;
+}
+.stat {
+  margin: 10px 15px;
+}
+body {
+  background-color: #c19c8e;
+}
+
+.titles {
+  color: pink;
+}
+#logo {
+  font-weight: bold;
+  color: white;
+  font-family: san-serif;
+  font-size: 2em;
+}
+#name {
+  font-weight: bold;
+  color: white;
+  font-family: san-serif;
+  font-size: 2em;
+}
+
+#status {
+  font-weight: bold;
+  color: pink;
+  font-family: san-serif;
+  font-size: 2em;
+}
+#all1,
+#online1,
+#offline1 {
+  font-weight: bold;
+  font-family: san-serif;
+}
+p {
+  font-family: san-serif;
+}
